@@ -1,9 +1,15 @@
-- 👋 Hi, I’m Muhammet Buğrahan Bayrakci
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Mobile Programming,Python and Unreal Engine 5
-- 📫 How to reach me bugrahanbayrakci@gmail.com
-Hard Working
-<!---
-mrBayCE/mrBayCE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# *👋 Hi, I'm **Muhammet Buğrahan Bayrakci**
+
+- 👀 **Occupation**: Computer Engineer
+- 🌱 **Currently Learning**:
+  - Mobile Programming
+  - Python
+  - Unreal Engine 5
+- 📫 **Reach Me**: [bugrahanbayrakci@gmail.com](mailto:bugrahanbayrakci@gmail.com)
+  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bugrahanbayrakci/).
+
+
+
+
+[Here my Unreal Engine 5 game website](https://etkingames.com)
